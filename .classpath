@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="SimpleSearcher2.java|SimpleSearcher3.java|DocToVector.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_76"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/lucene-core-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Downloads/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tato/Desktop/Lucene1/lucene-3.0.3/contrib/spellchecker/lucene-spellchecker-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
